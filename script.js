@@ -47,7 +47,7 @@ function rotate(each,val){
                     arrayElement.length=0;
                     setTimeout(() => {
                         if(points==3){
-                            wholebox.innerHTML="You Won !";
+                            wholebox.innerHTML="<h2 class='won'>You Won !</h2>";
                         }
                     }, 1000);
                 }
