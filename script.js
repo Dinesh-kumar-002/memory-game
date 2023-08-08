@@ -62,31 +62,6 @@ function rotate(each,val){
                         }, 500);
                         
                     }
-            
-        
-        //         if(array.includes(each.getAttribute('data-same')) && !(array.includes(each.id))){
-        //            array[0].setAttribute('data-sync','true')
-        //             points++;
-        //             array.length=0;
-        //             setTimeout(() => {
-        //                 if(points==3){
-        //                     wholebox.innerHTML="You Won !";
-        //                 }
-        //             }, 1000);
-        //         }
-        //         else{
-        //             setTimeout(() => {
-        //                 array.forEach((element) => {
-        //                     element.children[0].style.transform='rotateY(0deg)';
-        //                     element.children[1].style.transform='rotateY(180deg)';
-        //                 })
-        //                 array.length=0;
-        //             }, 500);
-                    
-        //         }
-        // }
-        // console.log(array);
-        console.log(points);
         
     }
     }
